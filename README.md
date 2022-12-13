@@ -22,12 +22,12 @@ Do students watch more content with time? Is this seasonally dependent? Does it 
 How do the students engage with the platform based on user type (free or paid), subscription type (monthly, quarterly, or annual), and country?
 Which are the countries with the most students registered? Does this number scale proportionally with the number of minutes watched per country?
 
-Resources 👉 
-            [Dataset](https://www.dropbox.com/s/7g5zgocllutcb1x/365_learning_challenge.zip?dl=0)
-            [SQL](https://learn.365datascience.com/courses/preview/sql/)
-            [Data Cleaning and Pre-processing with pandas](https://learn.365datascience.com/courses/preview/data-cleaning-preprocessing-pandas/)
-            [The Complete Data Visualization Course with Python, R, Tableau, and Excel](https://learn.365datascience.com/courses/preview/data-visualization/)
-            [Power BI](https://learn.365datascience.com/courses/preview/introduction-to-power-bi/)
-            [SQL + Tableau](https://learn.365datascience.com/courses/preview/sql-tableau/)
-            [Machine Learning in Python](https://learn.365datascience.com/courses/preview/machine-learning-in-python/)
+Resources 
+        👉[Dataset](https://www.dropbox.com/s/7g5zgocllutcb1x/365_learning_challenge.zip?dl=0)
+        👉 [SQL](https://learn.365datascience.com/courses/preview/sql/)
+        👉 [Data Cleaning and Pre-processing with pandas](https://learn.365datascience.com/courses/preview/data-cleaning-preprocessing-pandas/)
+        👉 [The Complete Data Visualization Course with Python, R, Tableau, and Excel](https://learn.365datascience.com/courses/preview/data-visualization/)
+        👉 [Power BI](https://learn.365datascience.com/courses/preview/introduction-to-power-bi/)
+        👉 [SQL + Tableau](https://learn.365datascience.com/courses/preview/sql-tableau/)
+        👉 [Machine Learning in Python](https://learn.365datascience.com/courses/preview/machine-learning-in-python/)
 
